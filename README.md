@@ -1,5 +1,3 @@
-# Assets-Failure-Prediction
-
 # Assets Failure Analysis and Prediction using Machine Learning
 
 Author: Juan Miguel Estrada - jmestradag@gmail.com
