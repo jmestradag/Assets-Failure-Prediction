@@ -49,10 +49,10 @@ The machine’s provider / supplier
 
 
 # Analysis Assumptions:
-Reader is familiar with reliability engineering concepts for machinery, which is a field of study that deals with the estimation, prevention, and management of failures by combining statistics, risk analysis, and physics.
-These machines works as repairable systems and each time they fail, they are repaired in "as good as new" condition.
-Operation timeframe given is in weeks, so these machines have an operating context of a 24/7 fashion, so operating time is similar across units and therefore will be treated in weeks, which will be our unit for maintenance planning and scheduling.
-Time to failure given as lifetime, is recorded since last failure or start of operation for each machine.
-This fleet of machines are very similar in design, and operates under same conditions.
-Failure mode under analysis is similar and related to same sub-system with key variables: Temperature, Pressure and Moisture.
-Due to lack of operating, maintaining and repairing costs, this analysis will assume a direct relationship between failures and costs and therefore this analysis can not use optimal replacement algorithm.
+1. Reader is familiar with reliability engineering concepts for machinery, which is a field of study that deals with the estimation, prevention, and management of failures by combining statistics, risk analysis, and physics.
+2. These machines works as repairable systems and each time they fail, they are repaired in "as good as new" condition.
+3. Operation timeframe given is in weeks, so these machines have an operating context of a 24/7 fashion, so operating time is similar across units and therefore will be treated in weeks, which will be our unit for maintenance planning and scheduling.
+4. Time to failure given as lifetime, is recorded since last failure or start of operation for each machine.
+5. This fleet of machines are very similar in design, and operates under same conditions.
+6. Failure mode under analysis is similar and related to same sub-system with key variables: Temperature, Pressure and Moisture.
+7. Due to lack of operating, maintaining and repairing costs, this analysis will assume a direct relationship between failures and costs and therefore this analysis can not use optimal replacement algorithm.
